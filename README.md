@@ -13,6 +13,7 @@ Prepare the MyWallet Javascript:
 
 Use node v7.9.0 and npm 5.6.0 by using a node version manager such as [nvm](https://github.com/creationix/nvm) or [n](https://github.com/tj/n).
     
+    # use node v7.9.0
     npm install -g n
     n v7.9.0
 
